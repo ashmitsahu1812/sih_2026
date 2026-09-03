@@ -14,9 +14,21 @@
   <b>Bridging the OPD Communication Barrier with Voice-First Multilingual Triage, Confidence-Gated OCR, and Dual Allopathy/Ayurveda Decision Trees.</b>
 </p>
 
-[✨ Live Demo](#-live-demo) • [📖 Philosophy](#-clinical-philosophy--etymology) • [⚡ Key Features](#-core-innovations--features) • [🧭 Architecture](#-system-architecture) • [🚀 Quickstart](#-getting-started) • [🧪 Walkthrough Script](#-3-minute-judge-walkthrough)
+[✨ Live Demo](https://prashna-tau.vercel.app) • [📖 Philosophy](#-clinical-philosophy--etymology) • [⚡ Key Features](#-core-innovations--features) • [🧭 Architecture](#-system-architecture) • [🚀 Quickstart](#-getting-started) • [🧪 Walkthrough Script](#-3-minute-judge-walkthrough)
 
 </div>
+
+---
+
+## 🌐 Live Demo Deployment
+
+The complete application is deployed live on Vercel:
+
+👉 **[https://prashna-tau.vercel.app](https://prashna-tau.vercel.app)**
+
+- **Production URL**: [https://prashna-tau.vercel.app](https://prashna-tau.vercel.app)
+- **Deployment Platform**: Vercel Serverless Edge Platform
+- **Zero Configuration**: Ready for instant interactive evaluation on desktop, tablet, and mobile devices.
 
 ---
 
