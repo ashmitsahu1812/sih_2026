@@ -1,5 +1,8 @@
 <div align="center">
 
+Drive Link for PPT:
+https://drive.google.com/drive/folders/1OFHlPOfbhyytmVbMNWhZjeTK0p9dOYdn?usp=sharing
+
 # PRASHNA · प्रश्न
 ### Multilingual OPD Intake Kiosk & Clinical Decision Support System
 
